@@ -3,6 +3,7 @@
 EzPanel is basically a solution to quickly and efficiently access the LAMPP panel in Ubuntu, Mint and other Debian based distros.
 
 **How do i install?**
+
 **1º** First of all, you need to have installed in your system lampp:
 [text](https://www.apachefriends.org/es/download.html)
 
