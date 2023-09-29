@@ -5,7 +5,7 @@ EzPanel is basically a solution to quickly and efficiently access the LAMPP pane
 **How do i install?**
 
 **1º** First of all, you need to have installed in your system lampp:
-[text](https://www.apachefriends.org/es/download.html)
+[APACHE Friends Website](https://www.apachefriends.org/es/download.html)
 
 **2º** Download the whole repository.
 
