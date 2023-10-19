@@ -16,6 +16,6 @@ EzPanel is basically a solution to quickly and efficiently access the LAMPP pane
 **4º** Open a terminal from Repository folder and execute this command:
 `sudo bash ./install.sh`
 
-**5º** You will realize that theres a new App in yout desktop and in your app manager which will open the Lampp Manager.
+**5º** You will realize that theres a new App in your desktop and in your app manager which will open the Lampp Manager.
 
 **6º** If you cannot launch the application, you must right click on the app launcher and enable the launch option.
